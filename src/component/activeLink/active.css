@@ -1,0 +1,7 @@
+.active {
+	background-color: salmon;
+	font-size: large;
+	/* color: salmon; */
+	border-radius: 5px;
+	padding: 0px 10px;
+}
